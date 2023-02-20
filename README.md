@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saluumaa
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning front end sofware
-- 💞️ I’m looking to collaborate on a github
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 
 <!---
