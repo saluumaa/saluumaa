@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack Software Development
 - 💞️ I’m looking to collaborate on github
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salma-ibrahim-78bb5a14a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SalmaHIbrahim20) 
 
 # 💻 Tech Stack:
@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saluumaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saluumaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@SalmaHIbrahim20)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saluumaa&icon=0&color=0)](https://visitcount.itsvg.in)
